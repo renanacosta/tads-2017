@@ -1,0 +1,34 @@
+
+public class exercicio3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		// A POSIÇÃO IRÁ DEFINIR OS ITENS
+		//=============================================
+		
+		// FAZER UM PROGRAMA DE CADASTRO DE PEÇAS. CADA PEÇA DEVERÁ TER O CAMPO 'CODIGO', 'NOME', 'QUANTIDADE', E 'PREÇO UNITÁRIO'. CRIAR UM PROGRAMA QUE:
+		
+		//I) TENHA O MENU A SEGUIR:
+		// 1 CADASTRO
+		// 2 PESQUISA
+		// 0 SAIR
+		
+		// NO MENU 2 DEVERÁ TER AS SEGUINTES OPÇÕES:
+		
+		// I) APRESENTAR O NOME DA PEÇA COM O MAIOR PREÇO UNITÁRIO.
+		// II) APRESENTAR O NOME DA PEÇA COM O MAIOR PREÇO TOTAL.
+		// III) LISTAR TODAS AS PEÇAS E SEUS DADOS COM OS PREÇOS TOTAIS.
+		// IV) BUSCAR A PEÇA PELO CÓDIGO
+		// V) BUSCAR A PEÇA PELO PEDAÇO DO NOME
+		// VI) APRESENTAR TODAS AS PEÇAS QUE TENHAM UMA QUANTIDADE X.
+		// VII) APRESENTAR TODAS AS PEÇAS COM QUANTIDADE MENOR QUE 10.
+		// VIII) APRESENTAR TODAS AS PEÇAS QUE TENHAM PREÇO UNITÁRIO MAIOR QUE 500 REAIS.
+		// IX) APRESENTAR O VALOR TOTAL DOS PREÇOS TOTAIS DO SISTEMA.
+		//==================================================================================
+		
+		
+
+	}
+
+}

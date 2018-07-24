@@ -1,0 +1,19 @@
+1 - Fazer um programa de cadastro de pecas. Cada peca deverá ter o campo codigo, nome, e quantidade e preço unitário. Criar um programa que 
+
+i) tenha o menu a seguir:
+    1 cadastro
+    2 pesquisa
+    0 sair
+
+   No menu 2 deverá ter as seguintes opções: 
+
+      i)Apresentar o nome da peça com o maior preço unitário.
+      ii) Apresentar o nome da peça com o maior PREÇO TOTAL.
+      iii) Listar todas as peças e seus dados com os preços totais
+      iv) buscar a peça pelo código
+      v) buscar a peça pelo pedaço do nome.
+      vi ) Apresentar todas as peças que tenham uma quantidade x.
+      vii) apresentar todas as peças com quantidade menor que 10.
+      viii) apresentar todas as peças que tenham preço unitario maior que 500 reais.
+      ix) apresentar o valor total de preços TOTAIS no sistema.  
+
